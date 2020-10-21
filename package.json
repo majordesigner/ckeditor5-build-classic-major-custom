@@ -1,7 +1,7 @@
 {
   "name": "ckeditor5-build-classic-major-custom",
   "version": "23.0.0",
-  "description": "Added Inline Editor and extended default toolbar for React, Developed by Major Designer ",
+  "description": "Added Inline Editor and extended default toolbar for React, Developed by Major Designer",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -66,10 +66,10 @@
   "author": "Major Designer & CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later",
   "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "bugs": "https://github.com/majordesigner/ckeditor5-build-classic-major-custom/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git"
+    "url": "https://github.com/majordesigner/ckeditor5-build-classic-major-custom.git"
   },
   "scripts": {
     "build": "webpack --mode production",
